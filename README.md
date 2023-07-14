@@ -1,1 +1,1 @@
-# spring-swagger-validation
+# How to keep swagger and api validation consistent
